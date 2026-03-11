@@ -1,5 +1,5 @@
-CART_HOST: cart.daws84s.site
-USER_HOST: user.daws84s.site
-RABBITMQ_HOST: rabbitmq.daws84s.site
+CART_HOST: cart.muraliitemp.online
+USER_HOST: user.muraliitemp.online
+RABBITMQ_HOST: rabbitmq.muraliitemp.online
 RABBITMQ_USER: roboshop
 RABBITMQ_PASSWORD: roboshop123
